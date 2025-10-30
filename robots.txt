@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ta2lk1.github.io/Ta2lk1/sitemap.xml
